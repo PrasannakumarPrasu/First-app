@@ -1,3 +1,3 @@
 # First-app
-Welcome to My Home page
-welcome
+Welcome to 2nd page
+hai
